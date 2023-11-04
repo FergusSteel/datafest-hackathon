@@ -26,7 +26,7 @@ Cost of Ads Analysis:
 Investigate how the cost of a 30-second ad slot during the Super Bowl has changed over the years.
 Compare ad costs with TV ratings to see if there's a correlation.
 
-Player Performance:
+Player Performance - Fergus:
 Analyze the performance of quarterbacks (QB) in Super Bowls. Are there any correlations between QB performance and Super Bowl outcomes?
 Examine the impact of MVPs on their respective Super Bowl games.
 
