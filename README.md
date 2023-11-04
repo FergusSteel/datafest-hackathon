@@ -43,3 +43,9 @@ Consider merging data from the different CSV files to create a comprehensive dat
 Local team advantage:
 
 Look at where the super bowl was hosted, which team was 'local team' and if the local team normally wins.
+
+Predictions: look at regular season win %, or regular season win % after 7/8 weeks (to use current standings). Or look at points scored/conceeded (conceeded could be meaningful) difficult to do given difficult scoring patterns across eras
+
+Split up teams into cold/medium/warm locations - if super bowl is hosted in a cold/warm location are they more likely to win?
+
+Boxplot of superbowl scores (winning team and losing team points) to see if there's any visual trends
